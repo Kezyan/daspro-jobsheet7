@@ -6,7 +6,7 @@ public class penjualanTiketBioskop17 {
         final int hargaTiket = 50000; 
         int totalTiketTerjual = 0;
         double totalPendapatan = 0;
-        String lanjut;
+        String lanjut = null;
 
         do {
             System.out.print("Masukkan jumlah tiket yang dibeli: ");
